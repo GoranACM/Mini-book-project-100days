@@ -1,3 +1,7 @@
+# Mini Book Project
+
+## Mini project in React.js as shown by The Coding Addict in his Full React Course - https://www.youtube.com/c/CodingAddict/featured
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
