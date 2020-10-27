@@ -2,12 +2,7 @@ import React from 'react'
 
 export const Book = ({ img, title, author }) => {
   return (
-    <article
-      className='book'
-      onMouseOver={() => {
-        console.log(title)
-      }}
-    >
+    <article className='book'>
       <img src={img} alt='' />
       <h1>{title}</h1>
       <h4>{author}</h4>
@@ -17,7 +12,7 @@ export const Book = ({ img, title, author }) => {
           alert('Hello!')
         }}
       >
-        Reference ex
+        Reference
       </button>
     </article>
   )

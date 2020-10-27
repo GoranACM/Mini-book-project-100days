@@ -2,14 +2,14 @@ export const books = [
   {
     id: 1,
     img:
-      'https://images-na.ssl-images-amazon.com/images/I/81eB%2B7%2BCkUL._AC_UL115_.jpg',
+      'https://images-na.ssl-images-amazon.com/images/I/517h-u1AQlL._SX482_BO1,204,203,200_.jpg',
     title: 'I Love You to the Moon and Back',
     author: 'Amelia Hepworth',
   },
   {
     id: 2,
     img:
-      'https:m.media-amazon.com/images/I/51fIRNMUHzL._BG0,0,0,0_FMpng_AC_SY160_SX160_.jpg',
+      'https://images-na.ssl-images-amazon.com/images/I/51fIRNMUHzL._SX402_BO1,204,203,200_.jpg',
     title: 'Little one',
     author: 'Ariel Andres Almada',
   },
